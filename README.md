@@ -1,4 +1,8 @@
-# `Back End API Documentation`
+# SIX.R - A virtual reality project funding platform
+
+## Pitch
+
+Sixr is a platform where virtual reality development teams can show off their projects and receive funding from individual donors who want to contribute.
 
 ## Dependencies
 
